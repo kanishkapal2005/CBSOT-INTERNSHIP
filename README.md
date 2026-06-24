@@ -1,6 +1,7 @@
 # 🏥 AI-Powered Maternal Health Risk Prediction System
 
 > An end-to-end Machine Learning project that predicts maternal health risk levels (**Low / Mid / High**) from clinical vitals, explains its predictions using Explainable AI, and recommends a course of action — built as an internship capstone project.
+*Google Collab Link*: https://colab.research.google.com/drive/1ZSEWsesnNKS_5zsrzOQSlOyaV8m-QH4i?usp=sharing
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange?logo=scikit-learn)
